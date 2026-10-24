@@ -3,7 +3,7 @@
 **A spotting group of aviation enthusiasts from China.**
 中国航空摄影爱好者的观察者社群。
 
-<https://ewpics.com> · <https://api.wing.pics>
+<https://ewpics.com> 
 
 ---
 

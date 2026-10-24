@@ -1,7 +1,7 @@
 # 东方之翼 · Eastern Wing
 
 **A spotting group of aviation enthusiasts from China.**
-网站： <https://ewpics.com> 
+网站：<https://ewpics.com>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ## 我们做什么
 
-我们运营一座航空摄影画廊。摄影师提交作品，审核员依据收录准则复核，入选作品进入画廊、机队与航空公司档案，以及「编辑之选」和「七日内热门」两个栏目。
+我们运营一座航空摄影画廊。摄影师提交作品，审核员依据[收录准则](https://ewpics.com/about/rules)复核，入选作品进入画廊、机队与航空公司档案，以及「编辑之选」和「七日内热门」两个栏目。
 
 ## 加入我们
 
@@ -21,13 +21,12 @@
 
 | Repository | 说明 |
 | --- | --- |
-| `EasternWing-Photos` | 站点代码 |
+| `EasternWing-Photos` | 站点代码，私有仓库 |
 | `.github` | 组织资料与说明 |
 
-
-The implementation is not public. The site is our source of truth for what we ship.
+实现细节不对外公开，以站点为准。
 
 ## 联系
 
 - 站点 — <https://ewpics.com>
-- 邮箱 - <mailto:team@ewpics.com>
+- 邮箱 — <mailto:team@ewpics.com>
